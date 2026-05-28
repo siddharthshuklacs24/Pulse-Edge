@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426866781991",
+    "project_id": "pulseedge-98498",
+    "storage_bucket": "pulseedge-98498.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426866781991:android:8690171729507144f8c302",
+        "android_client_info": {
+          "package_name": "com.example.pulse_edge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50WG-a3FD70dyLAQM7WpyyuIsxB6pWT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

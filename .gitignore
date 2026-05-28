@@ -1,0 +1,20 @@
+# Python
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Flutter
+.dart_tool/
+build/
+
+# Android Studio / VS Code
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

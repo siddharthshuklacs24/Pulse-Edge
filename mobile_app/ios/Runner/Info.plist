@@ -1,0 +1,10 @@
+<dict>
+    <key>NSMotionUsageDescription</key>
+    <string>PulseEdge uses your accelerometer to monitor physical activity intensity for heart health safety.</string>
+
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>processing</string>
+    </array>
+    </dict>
