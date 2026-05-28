@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hackathon flow:
 1)deep and detailed prompt about the problem statement and project flow after thinking it through
 2)correct roles dividing
@@ -138,3 +139,7 @@ TEAM DIVISION:
 
 
 
+=======
+# Pulse-Edge
+ML-based health monitoring app with heart risk analysis and activity tracking using Flutter and accelerometer data.
+>>>>>>> 8c2f2a4cb52977003a7a91afd5b20c039d830a86
